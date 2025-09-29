@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-ikarskya:b301cb835857eefe602a81b7b3cd8c8b9e8b9183@sha256:8d0834a34c5f9ac3dea65f921973f245c58f9284790e212a23179331c6c9b39f
+        - image: quay.io/rhtap_qe/go-ikarskya:48b947011b43a5bb761b504bb5da340b88a88c56@sha256:acca8482888ae528df3b7d8a0c3b0a002fa2d68b83de2407d75c14c6a5f2f6cc
           name: container-image
